@@ -1,4 +1,4 @@
-android_device_msm8660-aokp
-===========================
+android_device_samsung_msm8660-common
+=====================================
 
-device msm8660 common AOKP 
+msm8660 for SHV-E120K
